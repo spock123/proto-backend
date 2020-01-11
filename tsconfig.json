@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "outDir": "dist",
+      "baseUrl": "src",
+      "module": "commonjs",
+      "paths": {
+        "@lib/*": ["lib/*", "lib"],
+        "@lib": ["lib/*", "lib"],
+        "@models/*": ["models/*", "models"],
+        "@models": ["models/*", "models"]
+      }
+  }
+}

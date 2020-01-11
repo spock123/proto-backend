@@ -1,7 +1,7 @@
 
 # Prototype backend using Node, Typescript, Express, Prettier, EsLint, Jest
 
-## Global depenedencies
+## Global dependencies
 node v.12+, Docker (docker-compose)
 
 ## Installation
